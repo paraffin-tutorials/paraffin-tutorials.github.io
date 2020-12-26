@@ -1,7 +1,7 @@
 <html>
         <html lang="fa-ir">
                 <head>
-                <title>Paraffin Team</title>
+                <title>Paraffin</title>
                 <link rel="icon" type="image/png" href="./image/paraffin.png" />
                         <meta name="theme-color" content="#a8dfff">
                         <meta name="twitter:card" value="summary">

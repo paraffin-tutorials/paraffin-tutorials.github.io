@@ -1,3 +1,0 @@
-GET /hazelcast/rest/cluster HTTP/1.0
-
-

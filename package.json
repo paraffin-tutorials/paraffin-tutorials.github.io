@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "axios": "^0.21.1",
     "discord.js": "^12.5.1",
     "grab.js": "^2.1.0"
   }

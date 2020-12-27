@@ -15,8 +15,20 @@
                         <meta charset="utf-8" />
                         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
                 </head>
-                
+
+                <audio src="./Music2.mp3" autoplay></audio>
+
+                <script type="text/javascript">
+    
+                        document.getElementById('audio/mpeg').play();
+                    
+                    //play audio with out html audio tag
+                    var myAudio = new Audio('./Music2.mp3');
+                    myAudio.play();
+                    </script>
+
     <script type="text/javascript">
+    
             var PsychoStatus=
     {
     messageTable:[], canScroll:true, currentPos:0, msgIndex:-1, period:150, cycle:0,
